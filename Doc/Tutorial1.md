@@ -14,7 +14,7 @@ Clique em "Criar conta".
   ![Tutorial Elipse Mobile](https://github.com/elipsemobile/ArduinoCloudLink/blob/master/Doc/Img/screen2.PNG)
 
 3. Você receberá um e-mail que solicitará a confirmação de sua conta. Ao acessar o link, aparecerá uma mensagem de agradecimento e a opção para ir ao painel administrativo, conforme a imagem abaixo:
-  ![Tutorial Elipse Mobile](https://github.com/elipsemobile/ArduinoCloudLink/blob/master/Doc/Img/screen3.PNG)
+  ![Tutorial Elipse Mobile](Img/screen3.PNG)
 
 4. Ao entrar no painel administrativo, irão aparecer suas aplicações, no caso do exemplo irá aparecer "exemplocloudlink" e a URL da mesma, conforme a imagem a seguir:
   ![Tutorial Elipse Mobile](https://github.com/elipsemobile/ArduinoCloudLink/blob/master/Doc/Img/screen4.PNG)
@@ -27,5 +27,10 @@ Clique em "Criar conta".
 
 7. Agora podemos configurar uma nova conexão com o Arduino, para isso precisamos clicar em "Menu principal" (canto superior esquerdo)e depois em "Conexões" conforme figura a seguir:
   ![Tutorial Elipse Mobile](https://github.com/elipsemobile/ArduinoCloudLink/blob/master/Doc/Img/screen7.PNG)
+
+8. Após, aparecerá a tela com as conexões existentes. Por padrão, aparecerá a conexão "demo", mas 
+não iremos usá-la, pois vamos criar uma nova. No canto superior direito clique no sinal de "+" e
+escolha "Arduino Remote" como mostram as imagens:
+   ![Tutorial Elipse Mobile](https://github.com/elipsemobile/ArduinoCloudLink/blob/master/Doc/Img/screen81.PNG)
 
 
