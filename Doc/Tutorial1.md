@@ -13,8 +13,8 @@ aplicação criará a URL. O usuário e senha serão utilizados para acessar sua
 Clique em "Criar conta".
 
 ![Tutorial Elipse Mobile](https://github.com/elipsemobile/ArduinoCloudLink/blob/master/Doc/Img/screen2.PNG)
-3. Você receberá um e-mail que solicitará a confirmação de sua conta. Ao acessar o link, aparecerá uma
-mensagem de agradecimento e a opção para ir ao painel administrativo, conforme a imagem abaixo:
+
+3. Você receberá um e-mail que solicitará a confirmação de sua conta. Ao acessar o link, aparecerá uma mensagem de agradecimento e a opção para ir ao painel administrativo, conforme a imagem abaixo:
 
 ![Tutorial Elipse Mobile](https://github.com/elipsemobile/ArduinoCloudLink/blob/master/Doc/Img/screen3.PNG)
 4. Ao entrar no painel administrativo, irão aparecer suas aplicações, no caso do exemplo irá aparecer "exemplocloudlink" e a URL da mesma, conforme a imagem a seguir:
