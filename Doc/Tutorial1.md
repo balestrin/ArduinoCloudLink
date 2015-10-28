@@ -1,6 +1,6 @@
 ##Tutorial Arduino Cloud Link
 
-As instruções a seguir tem o intuito de auxiliar a configuração do Arduino com o servidor Elipse, tendo em vista a facilidade de conexão e a utilização do conceito da Internet das Coisas. Como pré-requisito é necessário ter um Shield Ethernet, para mais informações acesse o link: http://blog.filipeflop.com/arduino/tutorial-ethernet-shield-w5100.html, para conectar o Arduino na Internet. Para a execução deste exemplo, foi utilizado uma placa RLRobotics v1.0 (similar ao Arduino Uno) e um Shield Ethernet Arduino.
+As instruções a seguir tem o intuito de auxiliar a configuração do Arduino com o servidor Elipse, tendo em vista a facilidade de conexão e a utilização do conceito da Internet das Coisas. Como pré-requisito é necessário ter um Shield Ethernet (mais informações a respeito acesse o link: [Tutorial](http://blog.filipeflop.com/arduino/tutorial-ethernet-shield-w5100.html)) para conectar o Arduino na Internet. Na execução deste exemplo, foram utilizados uma placa RLRobotics v1.0 (similar ao Arduino Uno) e um Shield Ethernet Arduino.
 
 Após baixar o código, siga os passos a seguir: 
 
