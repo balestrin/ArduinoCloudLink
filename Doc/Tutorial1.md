@@ -2,9 +2,6 @@
 
 As instruções a seguir tem o intuito de auxiliar a configuração do Arduino com o servidor Elipse, tendo em vista a facilidade de conexão e a utilização do conceito de Internet das Coisas. Para conectar o Arduino na Internet é necessário ter um [Shield Ethernet](https://www.arduino.cc/en/Main/ArduinoEthernetShield), mais informações a respeito acesse o link: [tutorial ethernet shield](http://blog.filipeflop.com/arduino/tutorial-ethernet-shield-w5100.html). Na execução deste exemplo, foram utilizados uma placa RLRobotics v1.0 (similar ao Arduino Uno) e um Shield Ethernet Arduino.
 
-Após baixar o código, siga os passos a seguir: 
-
-
 1. Entre no site http://www.elipsemobile.com/ e crie sua conta clicando em "Teste Grátis".
    ![Tutorial Elipse Mobile](Img/screen1.PNG)
 
