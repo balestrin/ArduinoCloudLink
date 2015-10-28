@@ -37,7 +37,12 @@ escolha "Arduino Remote" como mostram as imagens:
 9. Em seguida, aparecerão os campos para inserir o nome da conexão e uma senha. Tais informações 
 serão utilizadas no código arduino que poderá ser baixado por meio do botão "Baixar código". 
 Faça o download como solicitado e clique em "Salvar", conforme a imagem a seguir:
-   ![Tutorial Elipse Mobile](Img/screen91.PNG)
+   ![Tutorial Elipse Mobile](Img/screen12.PNG)
+
+10. Para adicionar a biblioteca ArduinoCloudLink é necessário abrir a IDE do Arduino
+e clicar em "Sketch-> Include Library -> Add .ZIP Library...". Localize a pasta recentemente
+baixada "ArduinoCloudLink.zip" e clique em "Open".
+   ![Tutorial Elipse Mobile](Img/screen133.PNG)
 
 10. Ao salvar, a conexão criada aparecerá na tela:
    ![Tutorial Elipse Mobile](Img/screen101.PNG)
