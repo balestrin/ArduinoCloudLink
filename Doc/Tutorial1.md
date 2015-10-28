@@ -32,5 +32,6 @@ Clique em "Criar conta".
 não iremos usá-la, pois vamos criar uma nova. No canto superior direito clique no sinal de "+" e
 escolha "Arduino Remote" como mostram as imagens:
    ![Tutorial Elipse Mobile](Img/screen81.PNG)
+   ![Tutorial Elipse Mobile](Img/screen82.PNG)
 
 
