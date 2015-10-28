@@ -42,4 +42,3 @@ Faça o download como solicitado e clique em "Salvar", conforme a imagem a segui
 10. Ao salvar, a conexão criada aparecerá na tela:
    ![Tutorial Elipse Mobile](Img/screen10.PNG)
 
-
