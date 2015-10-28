@@ -34,4 +34,9 @@ escolha "Arduino Remote" como mostram as imagens:
    ![Tutorial Elipse Mobile](Img/screen81.PNG)
    ![Tutorial Elipse Mobile](Img/screen82.PNG)
 
+9. Em seguida, aparecerão os campos para inserir o nome da conexão e uma senha. Tais informações 
+serão utilizadas no código que poderá ser baixado por meio do botão "Baixar código". 
+Faça o download do código como solicitado e clique em "Salvar", conforme a imagem a seguir:
+   ![Tutorial Elipse Mobile](Img/screen91.PNG)
+
 
