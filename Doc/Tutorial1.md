@@ -4,36 +4,28 @@ As instruções a seguir tem o intuito de auxiliar a configuração do Arduino c
 
 Após baixar o código, siga os passos a seguir: 
 
-<ol>
-<li>Entre no site http://www.elipsemobile.com/ e crie sua conta clicando em "Teste Grátis".
 
- ![Tutorial Elipse Mobile](https://github.com/elipsemobile/ArduinoCloudLink/blob/master/Doc/Img/screen1.PNG)
-</li> 
-<li>Ao preencher os campos, preste atenção no nome do aplicativo, pois será através dele que sua 
+1. Entre no site http://www.elipsemobile.com/ e crie sua conta clicando em "Teste Grátis".
+  ![Tutorial Elipse Mobile](https://github.com/elipsemobile/ArduinoCloudLink/blob/master/Doc/Img/screen1.PNG)
+
+2. Ao preencher os campos, preste atenção no nome do aplicativo, pois será através dele que sua 
 aplicação criará a URL. O usuário e senha serão utilizados para acessar sua aplicação posteriormente. 
 Clique em "Criar conta".
+  ![Tutorial Elipse Mobile](https://github.com/elipsemobile/ArduinoCloudLink/blob/master/Doc/Img/screen2.PNG)
 
-![Tutorial Elipse Mobile](https://github.com/elipsemobile/ArduinoCloudLink/blob/master/Doc/Img/screen2.PNG)
-</li>
-<li>Você receberá um e-mail que solicitará a confirmação de sua conta. Ao acessar o link, aparecerá uma mensagem de agradecimento e a opção para ir ao painel administrativo, conforme a imagem abaixo:
+3. Você receberá um e-mail que solicitará a confirmação de sua conta. Ao acessar o link, aparecerá uma mensagem de agradecimento e a opção para ir ao painel administrativo, conforme a imagem abaixo:
+  ![Tutorial Elipse Mobile](https://github.com/elipsemobile/ArduinoCloudLink/blob/master/Doc/Img/screen3.PNG)
 
-![Tutorial Elipse Mobile](https://github.com/elipsemobile/ArduinoCloudLink/blob/master/Doc/Img/screen3.PNG)
-</li>
-<li>Ao entrar no painel administrativo, irão aparecer suas aplicações, no caso do exemplo irá aparecer "exemplocloudlink" e a URL da mesma, conforme a imagem a seguir:
+4. Ao entrar no painel administrativo, irão aparecer suas aplicações, no caso do exemplo irá aparecer "exemplocloudlink" e a URL da mesma, conforme a imagem a seguir:
+  ![Tutorial Elipse Mobile](https://github.com/elipsemobile/ArduinoCloudLink/blob/master/Doc/Img/screen4.PNG)
 
-![Tutorial Elipse Mobile](https://github.com/elipsemobile/ArduinoCloudLink/blob/master/Doc/Img/screen4.PNG)
-</li>
-<li>Clique na url para acessar a aplicação criada. Serão solicitados Usuário e Senha, cadastrados anteriormente.
+5. Clique na url para acessar a aplicação criada. Serão solicitados Usuário e Senha, cadastrados anteriormente.
+  ![Tutorial Elipse Mobile](https://github.com/elipsemobile/ArduinoCloudLink/blob/master/Doc/Img/screen5.PNG)
 
-![Tutorial Elipse Mobile](https://github.com/elipsemobile/ArduinoCloudLink/blob/master/Doc/Img/screen5.PNG)
-</li>
-<li>clique em entrar e aparecerá a tela inicial de sua aplicação, conforme a imagem abaixo:
+6. clique em entrar e aparecerá a tela inicial de sua aplicação, conforme a imagem abaixo:
+  ![Tutorial Elipse Mobile](https://github.com/elipsemobile/ArduinoCloudLink/blob/master/Doc/Img/screen6.PNG)
 
-![Tutorial Elipse Mobile](https://github.com/elipsemobile/ArduinoCloudLink/blob/master/Doc/Img/screen6.PNG)
-</li>
-<li>Agora podemos configurar uma nova conexão com o Arduino, para isso precisamos clicar em "Menu principal" (canto superior esquerdo)e depois em "Conexões" conforme figura a seguir:
+7. Agora podemos configurar uma nova conexão com o Arduino, para isso precisamos clicar em "Menu principal" (canto superior esquerdo)e depois em "Conexões" conforme figura a seguir:
+  ![Tutorial Elipse Mobile](https://github.com/elipsemobile/ArduinoCloudLink/blob/master/Doc/Img/screen7.PNG)
 
-![Tutorial Elipse Mobile](https://github.com/elipsemobile/ArduinoCloudLink/blob/master/Doc/Img/screen7.PNG)
-</li>
-</ol>
 
