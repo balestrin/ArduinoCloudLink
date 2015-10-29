@@ -48,5 +48,29 @@ baixada "ArduinoCloudLink.zip" e clique em "Open".
     ![Tutorial Elipse Mobile](Img/screen164.PNG)
     Após, faça o upload e pronto! Seu arduino está conectado com sua aplicação.
 
+13. Agora vamos colocar os dados de alguma porta analógica do Arduino na aplicação:
+    - Vá para página inicial (símbolo da casinha); 
+    - No canto superior direito clique no símbolo do lápis (editar); 
+    - Selecione e exclua os grupos de exemplos por meio do símbolo excuir:
+    ![Tutorial Elipse Mobile](Img/screen17.PNG)
+
+14. Clique no símbolo "+" em cinza dentro do retângulo e escolha algum controle, no exemplo 
+será usado um Display que irá coletar os dados da porta analógica A2 do Arduino:
+    ![Tutorial Elipse Mobile](Img/screen18.PNG)
+
+15. Para selecionar uma Tag, que no caso será um pino analógico, vá na opção "Tag", conforme a figura:
+    ![Tutorial Elipse Mobile](Img/screen19.PNG)
+
+16. Depois será possível optar por alguma conexão, no caso do exemplo foi criada a "arduino", clique
+no diretório correspondente e escolha a tag desejada:
+    ![Tutorial Elipse Mobile](Img/screen20.PNG)
+    ![Tutorial Elipse Mobile](Img/screen21.PNG)
+
+17. Personalize os campos como desejar e clique em "Salvar":
+    ![Tutorial Elipse Mobile](Img/screen22.PNG)
+
+18. Depois de salvo é necessário clicar em "Run", conforme a imagem:
+    ![Tutorial Elipse Mobile](Img/screen23.PNG)
+
 
 
