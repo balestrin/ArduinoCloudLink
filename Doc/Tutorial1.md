@@ -75,6 +75,9 @@ no diretório correspondente e escolha a tag desejada:
 18. Depois de salvo é necessário clicar em "Run", conforme a imagem:
     ![Tutorial Elipse Mobile](Img/screen23.PNG)
 
-Pronto! Seu Arduino está enviando as informações do pino selecionado para o servidor. Para personalizar as funções de leitura e escrita do arduino, assim como inserir mais pinos de acordo com a placa usada, siga este tutorial: [Código Cloud Link](#).
+Pronto! Seu Arduino está enviando as informações do pino selecionado para o servidor:
+    ![Tutorial Elipse Mobile](Img/screen24.PNG)
+
+Para personalizar as funções de leitura e escrita do arduino, assim como inserir mais pinos de acordo com a placa usada, siga este tutorial: [Código Cloud Link](#).
 
 
