@@ -46,6 +46,7 @@ baixada "ArduinoCloudLink.zip" e clique em "Open".
 
 12. O código apresentado irá fazer a conexão entre o Arduino e a aplicação criada. Localize o comentário "Configuration" e faça a substituição conforme imagem abaixo: 
     ![Tutorial Elipse Mobile](Img/screen164.PNG)
+    Após, faça o upload e pronto! Seu arduino está conectado com sua aplicação.
 
 
 
