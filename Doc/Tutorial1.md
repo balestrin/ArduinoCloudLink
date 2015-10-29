@@ -78,6 +78,6 @@ no diretório correspondente e escolha a tag desejada:
 Pronto! Seu Arduino está enviando as informações do pino selecionado para o servidor:
     ![Tutorial Elipse Mobile](Img/screen24.PNG)
 
-Para personalizar as funções de leitura e escrita do Arduino, assim como inserir mais pinos de acordo com a placa usada, siga este tutorial: [Código Cloud Link](#).
+Para personalizar as funções de leitura e escrita do Arduino, assim como inserir mais pinos de acordo com a placa usada, siga este tutorial: [Código Cloud Link](Tutorial2.md).
 
 
