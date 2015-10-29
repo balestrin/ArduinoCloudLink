@@ -19,7 +19,7 @@ Clique em "Criar conta".
 5. Clique na url para acessar a aplicação criada. Serão solicitados Usuário e Senha, cadastrados anteriormente.
   ![Tutorial Elipse Mobile](Img/screen5.PNG)
 
-6. clique em entrar e aparecerá a tela inicial de sua aplicação, conforme a imagem abaixo:
+6. Clique em entrar e aparecerá a tela inicial de sua aplicação, conforme a imagem abaixo:
    ![Tutorial Elipse Mobile](Img/screen6.PNG)
 
 7. Agora é possível configurar uma nova conexão com o Arduino, para isso é necessário clicar em "Menu principal" (canto superior esquerdo)e depois em "Conexões" conforme figura a seguir:
@@ -74,4 +74,7 @@ no diretório correspondente e escolha a tag desejada:
 
 18. Depois de salvo é necessário clicar em "Run", conforme a imagem:
     ![Tutorial Elipse Mobile](Img/screen23.PNG)
+
+Pronto! Seu Arduino está enviando as informações do pino selecionado para o servidor. Para personalizar as funções de leitura e escrita do arduino, assim como inserir mais pinos de acordo com a placa usada, siga este tutorial: [Código Cloud Link](#).
+
 
