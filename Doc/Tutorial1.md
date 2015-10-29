@@ -75,5 +75,3 @@ no diretório correspondente e escolha a tag desejada:
 18. Depois de salvo é necessário clicar em "Run", conforme a imagem:
     ![Tutorial Elipse Mobile](Img/screen23.PNG)
 
-
-
