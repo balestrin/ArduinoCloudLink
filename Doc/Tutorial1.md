@@ -44,6 +44,8 @@ baixada "ArduinoCloudLink.zip" e clique em "Open".
 11. Para demonstrar a utilização da biblioteca será necessário abrir o código de exemplo, o caminho do mesmo se encontra em "File->Examples->ArduinoCloudLink->Examples->Example1"
    ![Tutorial Elipse Mobile](Img/screen15.PNG)
 
-12. Ao salvar, a conexão criada aparecerá na tela:
-   ![Tutorial Elipse Mobile](Img/screen101.PNG)
+12. O código apresentado irá fazer a conexão entre o Arduino e a aplicação criada. Localize o comentário "Configuration" e faça a substituição conforme imagem abaixo: 
+    ![Tutorial Elipse Mobile](Img/screen164.PNG)
+
+
 
