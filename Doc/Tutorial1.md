@@ -46,6 +46,7 @@ baixada "ArduinoCloudLink.zip" e clique em "Open".
 
 12. O código apresentado irá fazer a conexão entre o Arduino e a aplicação criada. Localize o comentário "Configuration" e faça a substituição conforme imagem abaixo: 
     ![Tutorial Elipse Mobile](Img/screen164.PNG)
+
     Após, faça o upload e pronto! Seu arduino está conectado com sua aplicação.
 
 13. Agora vamos colocar os dados de alguma porta analógica do Arduino na aplicação:
@@ -64,6 +65,7 @@ será usado um Display que irá coletar os dados da porta analógica A2 do Ardui
 16. Depois será possível optar por alguma conexão, no caso do exemplo foi criada a "arduino", clique
 no diretório correspondente e escolha a tag desejada:
     ![Tutorial Elipse Mobile](Img/screen20.PNG)
+
     ![Tutorial Elipse Mobile](Img/screen21.PNG) 
 
 17. Personalize os campos como desejar e clique em "Salvar":
