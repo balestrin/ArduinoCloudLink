@@ -64,8 +64,8 @@ será usado um Display que irá coletar os dados da porta analógica A2 do Ardui
 
 16. Depois será possível optar por alguma conexão, no caso do exemplo foi criada a "arduino", clique
 no diretório correspondente e escolha a tag desejada:
-    ![Tutorial Elipse Mobile](Img/screen20.PNG)
 
+    ![Tutorial Elipse Mobile](Img/screen20.PNG)
     ![Tutorial Elipse Mobile](Img/screen21.PNG) 
 
 17. Personalize os campos como desejar e clique em "Salvar":
