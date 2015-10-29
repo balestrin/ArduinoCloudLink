@@ -69,6 +69,7 @@ no diretório correspondente e escolha a tag desejada:
     ![Tutorial Elipse Mobile](Img/screen21.PNG) 
 
 17. Personalize os campos como desejar e clique em "Salvar":
+
     ![Tutorial Elipse Mobile](Img/screen22.PNG)
 
 18. Depois de salvo é necessário clicar em "Run", conforme a imagem:
